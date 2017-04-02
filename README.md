@@ -29,39 +29,24 @@ Learn about these concepts with Java Examples
 - We will be developing a demo application in the course, which could be reused in your projects, saving hours of your effort.
 - All the code is available on Github, for most steps.
 
-###Useful Links
+### Other Courses
+
+- [Most Watched Courses on YouTube - 30,000 Subscribers](https://www.youtube.com/watch?v=bNFoN956P2A&list=PLBBog2r6uMCQhZaQ9vUT5zJWXzz-f49k1)
+- [25 Videos and Articles for Beginners on Spring Boot](http://www.springboottutorial.com/spring-boot-tutorials-for-beginners)
+- Our Best Courses with 66,000 Students and 4,000 5-Star Ratings
+  * [Java Interview Guide : 200+ Interview Questions and Answers](https://www.udemy.com/java-interview-questions-and-answers/?couponCode=JAVA_INTER_GIT)
+  * [First Web Application with Spring Boot](https://www.udemy.com/spring-boot-first-web-application/?couponCode=SPRING-BOOT-1-GIT)
+  * [Spring Boot Tutorial For Beginners](https://www.udemy.com/spring-boot-tutorial-for-beginners/?couponCode=SPRING-BOOT-GIT)
+  * [Mockito Tutorial : Learn mocking with 25 Junit Examples](https://www.udemy.com/mockito-tutorial-with-junit-examples/?couponCode=MOCKITO_GIT)
+  * [Java EE Made Easy - Patterns, Architecture and Frameworks](https://www.udemy.com/java-ee-design-patterns-architecture-and-frameworks/?couponCode=EEPATTERNS-GIT)
+  * [Spring MVC For Beginners : Build Java Web App in 25 Steps](https://www.udemy.com/spring-mvc-tutorial-for-beginners-step-by-step/?couponCode=SPRINGMVC-GIT)
+  * [JSP Servlets For Beginners : Build Java Web App in 25 Steps](https://www.udemy.com/learn-java-servlets-and-jsp-web-application-in-25-steps/?couponCode=JSPSRVLT-GIT)
+  * [Maven Tutorial - Manage Java Dependencies in 25 Steps](https://www.udemy.com/learn-maven-java-dependency-management-in-20-steps/?couponCode=MAVEN_GIT)
+  * [Java OOPS in 1 Hours](https://www.udemy.com/learn-object-oriented-programming-in-java/?couponCode=OOPS-GIT)
+  * [C Puzzle for Interview](https://www.udemy.com/c-puzzles-for-beginners/?couponCode=CPUZZLES-GIT)
+  
+### Useful Links
 - [Our Website](http://www.in28minutes.com)
-- [Youtube Courses](https://www.youtube.com/user/rithustutorials/playlists)
-- [Udemy Courses](https://www.udemy.com/user/in28minutes/)
 - [Facebook](http://facebook.com/in28minutes)
 - [Twitter](http://twitter.com/in28minutes)
 - [Google Plus](https://plus.google.com/u/3/110861829188024231119)
-
-###Other Courses
-- [Spring Framework](https://www.udemy.com/spring-tutorial-for-beginners/)
-- [Maven](http://www.in28minutes.com/p/maven-tutorial-for-beginners.html)
-- [Eclipse](http://www.in28minutes.com/p/eclipse-java-video-tutorial.html)
-- Java
-  * [Java](https://www.youtube.com/watch?v=Y4ftqcYVh5I&list=PLE0D4634AE2DFA591&index=1)
-  * [Java Collections](http://www.in28minutes.com/p/java-collections-framework-video.html)
-  * [Java OOPS Concepts](https://www.udemy.com/learn-object-oriented-programming-in-java/) 
-- [Design Patterns](http://www.in28minutes.com/p/design-patterns-tutorial.html)
-- [JUnit](https://www.udemy.com/junit-tutorial-for-beginners-with-java-examples/)
-- [C](https://www.udemy.com/c-tutorial-for-beginners-with-puzzles/)
-- [C Puzzles](https://www.udemy.com/c-puzzles-for-beginners/)
-- [Javascript](https://www.youtube.com/watch?v=6TZdD-FR6CY)
-- [More Courses on Udemy](https://www.udemy.com/user/in28minutes/)
-  * Java Servlets and JSP : Your first web application in 25 Steps
-  * Learn Spring MVC in 25 Steps 
-  * Learn Struts in 25 Steps 
-  * Learn Hibernate in 25 Steps
-  * 10 Steps to Professional Java Developer
-- [Java Interview Guide](http://www.in28minutes.com/p/buy-our-java-interview-guide.html)
-  * Core Java
-  * Advanced Java
-  * Spring, Spring MVC
-  * Struts
-  * Hibernate
-  * Design Patterns
-  * 400+ Questions
-  * 23 Videos
