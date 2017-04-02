@@ -12,17 +12,17 @@ Learn about these concepts with Java Examples
  - Encapsulation 
 
 
-##About in28Minutes
+## About in28Minutes
 - At in28Minutes, we ask ourselves one question everyday. How do we create more effective trainings?
 - We use Problem-Solution based Step-By-Step Hands-on Approach With Practical, Real World Application Examples. 
 - Our success on Udemy and Youtube (2 Million Views & 12K Subscribers) speaks volumes about the success of our approach.
 - While our primary expertise is on Development, Design & Architecture Java & Related Frameworks (Spring, Struts, Hibernate) we are expanding into the front-end world (Bootstrap, JQuery, Angular JS). 
 
-###Our Beliefs
+### Our Beliefs
 - Best Course are interactive and fun.
 - Foundations for building high quality applications are best laid down while learning.
 
-###Our Approach
+### Our Approach
 - Problem Solution based Step by Step Hands-on Learning
 - Practical, Real World Application Examples.
 - We use 80-20 Rule. We discuss 20% things used 80% of time in depth. We touch upon other things briefly equipping you with enough knowledge to find out more on your own. 
