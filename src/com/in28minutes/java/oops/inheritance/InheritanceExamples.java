@@ -23,5 +23,7 @@ public class InheritanceExamples {
 	public static void main(String[] args) {
 		Animal animal = new Cat();
 		System.out.println(animal.bark());
+		animal = new Dog();
+		System.out.println(animal.bark());
 	}
 }
