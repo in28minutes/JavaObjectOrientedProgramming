@@ -20,5 +20,8 @@ public class InterfaceExamples {
 	public static void main(String[] args) {
 		Flyable flyable = new Bird();
 		flyable.fly();
+		
+		Flyable flyable1 = new Aeroplane();
+		flyable1.fly();
 	}
 }
