@@ -1,11 +1,11 @@
 package com.in28minutes.java.oops.coupling.solution;
 
 class ShoppingCartEntry {
-	float pricedummy;
+	float price;
 	int quantity;
 
 	public float getTotalPrice() {
-		return pricedummy * quantity;
+		return price * quantity;
 	}
 }
 
